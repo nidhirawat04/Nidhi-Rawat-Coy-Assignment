@@ -1,0 +1,496 @@
+{
+  "profiles": [
+    {
+      "id": "p01",
+      "name": "Aarav",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=12",
+      "bio": "Coffee lover and weekend explorer. Always up for an adventure.",
+      "city": "Delhi",
+      "college": "Delhi University",
+      "interests": [
+        "Travel",
+        "Photography",
+        "Music"
+      ]
+    },
+    {
+      "id": "p02",
+      "name": "Ananya",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=47",
+      "bio": "Finding joy in little things and big conversations.",
+      "city": "Mumbai",
+      "college": "Mumbai University",
+      "interests": [
+        "Reading",
+        "Coffee",
+        "Movies"
+      ]
+    },
+    {
+      "id": "p03",
+      "name": "Rohan",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=13",
+      "bio": "Music enthusiast, foodie and spontaneous traveller.",
+      "city": "Bangalore",
+      "college": "Christ University",
+      "interests": [
+        "Fitness",
+        "Food",
+        "Hiking"
+      ]
+    },
+    {
+      "id": "p04",
+      "name": "Isha",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=44",
+      "bio": "Art is my language. Music is my therapy.",
+      "city": "Pune",
+      "college": "Fergusson College",
+      "interests": [
+        "Art",
+        "Music",
+        "Travel"
+      ]
+    },
+    {
+      "id": "p05",
+      "name": "Kabir",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/600?img=14",
+      "bio": "Tech nerd with a soft spot for old movies.",
+      "city": "Delhi",
+      "college": "IIT Delhi",
+      "interests": [
+        "Technology",
+        "Gaming",
+        "Movies"
+      ]
+    },
+    {
+      "id": "p06",
+      "name": "Meera",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=45",
+      "bio": "Dancing through life, one playlist at a time.",
+      "city": "Jaipur",
+      "college": "University of Rajasthan",
+      "interests": [
+        "Dancing",
+        "Fashion",
+        "Food"
+      ]
+    },
+    {
+      "id": "p07",
+      "name": "Arjun",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/600?img=15",
+      "bio": "Mountains over beaches. Chai over coffee.",
+      "city": "Chandigarh",
+      "college": "Panjab University",
+      "interests": [
+        "Trekking",
+        "Travel",
+        "Photography"
+      ]
+    },
+    {
+      "id": "p08",
+      "name": "Sana",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=46",
+      "bio": "A little bit of everything, a lot of curiosity.",
+      "city": "Hyderabad",
+      "college": "Osmania University",
+      "interests": [
+        "Books",
+        "Art",
+        "Music"
+      ]
+    },
+    {
+      "id": "p09",
+      "name": "Vihaan",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=16",
+      "bio": "Fitness, football and finding the best street food.",
+      "city": "Gurgaon",
+      "college": "Amity University",
+      "interests": [
+        "Football",
+        "Fitness",
+        "Food"
+      ]
+    },
+    {
+      "id": "p10",
+      "name": "Aditi",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=48",
+      "bio": "Collecting memories and postcards from everywhere.",
+      "city": "Kolkata",
+      "college": "Presidency University",
+      "interests": [
+        "Travel",
+        "Writing",
+        "Photography"
+      ]
+    },
+    {
+      "id": "p11",
+      "name": "Reyansh",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/600?img=17",
+      "bio": "Building things, breaking things, learning always.",
+      "city": "Bangalore",
+      "college": "RV College",
+      "interests": [
+        "Coding",
+        "Gaming",
+        "Technology"
+      ]
+    },
+    {
+      "id": "p12",
+      "name": "Kiara",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=49",
+      "bio": "Sunsets, good music and spontaneous road trips.",
+      "city": "Mumbai",
+      "college": "NMIMS",
+      "interests": [
+        "Music",
+        "Travel",
+        "Fashion"
+      ]
+    },
+    {
+      "id": "p13",
+      "name": "Dev",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=18",
+      "bio": "Film buff and amateur photographer.",
+      "city": "Delhi",
+      "college": "Delhi University",
+      "interests": [
+        "Movies",
+        "Photography",
+        "Books"
+      ]
+    },
+    {
+      "id": "p14",
+      "name": "Tara",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=50",
+      "bio": "Living life one adventure at a time.",
+      "city": "Pune",
+      "college": "Symbiosis",
+      "interests": [
+        "Hiking",
+        "Travel",
+        "Dancing"
+      ]
+    },
+    {
+      "id": "p15",
+      "name": "Aditya",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/600?img=19",
+      "bio": "Sports enthusiast and weekend chef.",
+      "city": "Jaipur",
+      "college": "Manipal University",
+      "interests": [
+        "Cricket",
+        "Cooking",
+        "Fitness"
+      ]
+    },
+    {
+      "id": "p16",
+      "name": "Zoya",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=51",
+      "bio": "Art, poetry and everything creative.",
+      "city": "Hyderabad",
+      "college": "University of Hyderabad",
+      "interests": [
+        "Poetry",
+        "Art",
+        "Reading"
+      ]
+    },
+    {
+      "id": "p17",
+      "name": "Ishaan",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=20",
+      "bio": "Adventure seeker and amateur guitarist.",
+      "city": "Chandigarh",
+      "college": "PEC University",
+      "interests": [
+        "Music",
+        "Trekking",
+        "Gaming"
+      ]
+    },
+    {
+      "id": "p18",
+      "name": "Riya",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=52",
+      "bio": "Books, coffee and conversations that matter.",
+      "city": "Kolkata",
+      "college": "Jadavpur University",
+      "interests": [
+        "Reading",
+        "Coffee",
+        "Movies"
+      ]
+    },
+    {
+      "id": "p19",
+      "name": "Krish",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/600?img=21",
+      "bio": "Startup enthusiast and lifelong learner.",
+      "city": "Bangalore",
+      "college": "IIM Bangalore",
+      "interests": [
+        "Business",
+        "Technology",
+        "Travel"
+      ]
+    },
+    {
+      "id": "p20",
+      "name": "Myra",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=53",
+      "bio": "Dancing, travelling and making memories.",
+      "city": "Mumbai",
+      "college": "St. Xavier's College",
+      "interests": [
+        "Dancing",
+        "Travel",
+        "Food"
+      ]
+    },
+    {
+      "id": "p21",
+      "name": "Vivaan",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=22",
+      "bio": "Football fanatic and music lover.",
+      "city": "Delhi",
+      "college": "Delhi University",
+      "interests": [
+        "Football",
+        "Music",
+        "Fitness"
+      ]
+    },
+    {
+      "id": "p22",
+      "name": "Diya",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=54",
+      "bio": "Chasing sunsets and creative inspiration.",
+      "city": "Pune",
+      "college": "MIT Pune",
+      "interests": [
+        "Photography",
+        "Art",
+        "Travel"
+      ]
+    },
+    {
+      "id": "p23",
+      "name": "Atharv",
+      "age": 26,
+      "photo": "https://i.pravatar.cc/600?img=23",
+      "bio": "Tech enthusiast by day, gamer by night.",
+      "city": "Gurgaon",
+      "college": "NSUT",
+      "interests": [
+        "Coding",
+        "Gaming",
+        "Movies"
+      ]
+    },
+    {
+      "id": "p24",
+      "name": "Naina",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=55",
+      "bio": "Foodie exploring the world one dish at a time.",
+      "city": "Jaipur",
+      "college": "Jaipur National University",
+      "interests": [
+        "Food",
+        "Cooking",
+        "Travel"
+      ]
+    },
+    {
+      "id": "p25",
+      "name": "Neil",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=24",
+      "bio": "Into nature, books and meaningful connections.",
+      "city": "Chandigarh",
+      "college": "Panjab University",
+      "interests": [
+        "Nature",
+        "Reading",
+        "Hiking"
+      ]
+    },
+    {
+      "id": "p26",
+      "name": "Avni",
+      "age": 23,
+      "photo": "https://i.pravatar.cc/600?img=56",
+      "bio": "Fashion enthusiast with a love for music.",
+      "city": "Mumbai",
+      "college": "Sophia College",
+      "interests": [
+        "Fashion",
+        "Music",
+        "Art"
+      ]
+    },
+    {
+      "id": "p27",
+      "name": "Rudra",
+      "age": 25,
+      "photo": "https://i.pravatar.cc/600?img=25",
+      "bio": "Gym, adventure and a little bit of chaos.",
+      "city": "Hyderabad",
+      "college": "BITS Hyderabad",
+      "interests": [
+        "Fitness",
+        "Adventure",
+        "Gaming"
+      ]
+    },
+    {
+      "id": "p28",
+      "name": "Sara",
+      "age": 22,
+      "photo": "https://i.pravatar.cc/600?img=57",
+      "bio": "Poetry lover and hopeless romantic.",
+      "city": "Kolkata",
+      "college": "Loreto College",
+      "interests": [
+        "Writing",
+        "Poetry",
+        "Music"
+      ]
+    },
+    {
+      "id": "p29",
+      "name": "Kian",
+      "age": 24,
+      "photo": "https://i.pravatar.cc/600?img=26",
+      "bio": "Always looking for the next big adventure.",
+      "city": "Bangalore",
+      "college": "Christ University",
+      "interests": [
+        "Travel",
+        "Photography",
+        "Sports"
+      ]
+    },
+    {
+      "id": "p30",
+      "name": "Mira",
+      "age": 21,
+      "photo": "https://i.pravatar.cc/600?img=58",
+      "bio": "Coffee addict, artist and sunset enthusiast.",
+      "city": "Delhi",
+      "college": "Delhi University",
+      "interests": [
+        "Coffee",
+        "Art",
+        "Movies"
+      ]
+    }
+  ],
+  "incomingLikes": [
+    "p03",
+    "p08",
+    "p14",
+    "p21",
+    "p27"
+  ],
+  "swipes": [
+    {
+      "profileId": "p01",
+      "action": "like",
+      "createdAt": "2026-11-20T07:12:41.792Z"
+    },
+    {
+      "profileId": "p02",
+      "action": "like",
+      "createdAt": "2026-11-20T07:12:49.232Z"
+    },
+    {
+      "profileId": "p03",
+      "action": "pass",
+      "createdAt": "2026-11-20T07:12:53.265Z"
+    },
+    {
+      "profileId": "p04",
+      "action": "like",
+      "createdAt": "2026-11-20T07:13:09.937Z"
+    },
+    {
+      "profileId": "p05",
+      "action": "pass",
+      "createdAt": "2026-11-20T07:13:13.721Z"
+    },
+    {
+      "profileId": "p06",
+      "action": "like",
+      "createdAt": "2026-11-20T07:17:40.106Z"
+    },
+    {
+      "profileId": "p07",
+      "action": "pass",
+      "createdAt": "2026-11-20T07:17:42.073Z"
+    },
+    {
+      "profileId": "p08",
+      "action": "like",
+      "createdAt": "2026-11-20T07:17:46.147Z"
+    },
+    {
+      "profileId": "p09",
+      "action": "pass",
+      "createdAt": "2026-11-20T07:17:54.152Z"
+    },
+    {
+      "profileId": "p10",
+      "action": "like",
+      "createdAt": "2026-11-20T07:17:59.327Z"
+    },
+    {
+      "profileId": "p11",
+      "action": "pass",
+      "createdAt": "2026-11-20T07:18:02.141Z"
+    },
+    {
+      "profileId": "p12",
+      "action": "like",
+      "createdAt": "2026-11-20T07:18:07.426Z"
+    }
+  ],
+  "matches": [
+    "p08"
+  ]
+}
